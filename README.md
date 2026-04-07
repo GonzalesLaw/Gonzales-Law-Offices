@@ -1,26 +1,3 @@
-# Gonzales Law Offices GitHub Repo Starter
-
-## Recommended repo name
-
-`gonzales-law-offices`
-
-## What this repo should be for
-
-Use this repository as your public business hub for:
-
-* company profile
-* website assets
-* location and contact info
-* brand kit
-* media kit
-* AI / SEO documentation
-* local business citations and directories
-* intake resources
-* hiring and careers info
-
-## Suggested folder structure
-
-```text
 gonzales-law-offices/
 ├── README.md
 ├── LICENSE
