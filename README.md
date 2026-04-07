@@ -175,25 +175,5 @@ We help families pursue accountability and financial recovery after fatal neglig
 }
 ```
 
-## Suggested next files
-
-* `docs/reviews.md`
-* `docs/case-results.md`
-* `docs/spanish-profile.md`
-* `docs/referral-partners.md`
-* `website/landing-pages/fontana-car-accident-lawyer.md`
-* `website/landing-pages/ontario-personal-injury-lawyer.md`
-* `website/landing-pages/rancho-cucamonga-car-accident-lawyer.md`
-
-## How to create it on GitHub
-
-1. Create a new repository.
-2. Add a README.
-3. Add a license if you want the repo to be reusable.
-4. Add the folders and files above.
-5. Upload your logo, photos, and docs.
-6. Add repo topics like: `personal-injury`, `law-firm`, `ontario-ca`, `fontana-ca`, `inland-empire`, `legal-service`, `car-accident-lawyer`.
-
-## Good repo topics
 
 `personal-injury`, `personal-injury-attorney`, `car-accident-lawyer`, `law-firm`, `legal-service`, `ontario-ca`, `fontana-ca`, `rancho-cucamonga`, `san-bernardino`, `riverside`, `inland-empire`, `california-lawyer`
